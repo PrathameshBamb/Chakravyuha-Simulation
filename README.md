@@ -1,6 +1,6 @@
 # Chakravyuha Simulation
 
-This repository contains a Python implementation for simulating and visualizing the Chakravyuha scenario. The code determines whether a player can cross a series of enemy encounters while managing power, skips, and recharges.
+This repository contains a Python implementation for simulating and visualizing the Chakravyuha scenario. The code determines whether a player can cross series of enemy encounters while managing power, skips, and recharges.
 
 ## Problem Statement
 
